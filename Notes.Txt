@@ -1,0 +1,6 @@
+*On the project folder*
+python - m manage <command>
+
+<command>
+runserver -> Start server
+migrate -> Impact Database
